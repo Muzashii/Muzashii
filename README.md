@@ -1,6 +1,6 @@
 # Hello, l'm Éverton, welcome to my GIT👋😎🖖
 
-My name is Éverton Costa da silva, I’m from Brazil 🇧🇷 , I’m a **Student of Computer Engineering** @FIAP venturing into the world of code development and writing. 👨‍💻
+My name is Éverton Costa da silva, I’m from Brazil, I’m a **Student of Computer Engineering** @FIAP venturing into the world of code development and writing. 👨‍💻
 
 #### 🌎"Quanto mais você sabe, mais você percebe que nada sabe!"🧠
 
