@@ -13,14 +13,6 @@ Construo soluções com **LLMs e agentes**, **Machine Learning** e **visão comp
 - **Machine Learning e visão computacional:** Scikit-learn, OpenCV, MediaPipe e DeepFace.
 - **Automação:** integração de ferramentas e simplificação de processos com Python.
 
-### Novos projetos
-
-<a href="https://github.com/Muzashii/radar-ops"><img src="assets/card-radar-ops.svg" width="100%" alt="Radar Ops — IA e engenharia de dados para e-commerce: pipeline, indicadores, previsão de atrasos e aplicações com LLMs. Em desenvolvimento."></a>
-
-<a href="https://github.com/Muzashii/gotham-database"><img src="assets/card-gotham-database.svg" width="100%" alt="Gotham Database — Batcomputador interativo em Power BI, com DAX, ETL em Python, indicadores e redes de relações."></a>
-
-<a href="https://github.com/Muzashii/mobios"><img src="assets/card-mobios.svg" width="100%" alt="Mobios — aplicação 3D no navegador com cortes, encaixes e simulação de montagem para impressão 3D. TypeScript, React e WebAssembly."></a>
-
 ### Projetos em destaque
 
 <p>
@@ -35,6 +27,14 @@ Construo soluções com **LLMs e agentes**, **Machine Learning** e **visão comp
 ### Automação & Otimização
 
 <a href="https://github.com/Muzashii/Sindri"><img src="assets/card-sindri.svg" width="100%" alt="Sindri: automatiza a preparação do corte a laser. Integra pedidos, otimiza o encaixe das peças com algoritmo genético e exporta o arquivo para fabricação."></a>
+
+### Novos projetos
+
+<a href="https://github.com/Muzashii/radar-ops"><img src="assets/card-radar-ops.svg" width="100%" alt="Radar Ops — IA e engenharia de dados para e-commerce: pipeline, indicadores, previsão de atrasos e aplicações com LLMs. Em desenvolvimento."></a>
+
+<a href="https://github.com/Muzashii/gotham-database"><img src="assets/card-gotham-database.svg" width="100%" alt="Gotham Database — Batcomputador interativo em Power BI, com DAX, ETL em Python, indicadores e redes de relações."></a>
+
+<a href="https://github.com/Muzashii/mobios"><img src="assets/card-mobios.svg" width="100%" alt="Mobios — aplicação 3D no navegador com cortes, encaixes e simulação de montagem para impressão 3D. TypeScript, React e WebAssembly."></a>
 
 ### Ferramentas
 
